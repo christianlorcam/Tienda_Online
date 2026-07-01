@@ -41,4 +41,5 @@ El proyecto sigue una estructura de capas para mantener el código organizado:
    ./mvnw spring-boot:run
 
 🤝 Autor
+
 Desarrollado por Christian Lorca.
